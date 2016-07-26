@@ -50,6 +50,10 @@ Blogs
 	- this dude is awesome!
 - [Taylor Hornby](https://defuse.ca/)
 	- security stuff
+- [Hacker News HN](https://news.ycombinator.com/)
+	- Cool stuff here! Hangout here a lot.
+- [John Resig](http://ejohn.org/)
+	- The developer of jQuery
 
 Other musings:
 --------------
