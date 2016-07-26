@@ -22,11 +22,11 @@ Blogs
 	- learnt Perl from one of his classes
 - [James Plank](http://web.eecs.utk.edu/~plank/) **University of Tennesse, Knoxville**
 	- a vibrant professor, few of UCSB's courses are shaped from his teachings
-- [Nick Parlante](https://cs.stanford.edu/people/nick/) *Stanford University*
+- [Nick Parlante](https://cs.stanford.edu/people/nick/) **Stanford University**
 	- learnt pointers here.
-- [Linus Akesson](http://www.linusakesson.net/pages/me.php) *Freelancer*
+- [Linus Akesson](http://www.linusakesson.net/pages/me.php) **Freelancer**
 	- Programming, linux and meditation. Repeat!
-- [Wozniak](http://www.woz.org/) *Steve Wozniak*
+- [Wozniak](http://www.woz.org/) **Steve Wozniak**
 	- did not know he existed on the web
 - [Dave Plonka](http://pages.cs.wisc.edu/~plonka/) **UW Madison**
 	- research scientist at Akamai Technologies
@@ -34,11 +34,11 @@ Blogs
 	- non programming stuff
 - [Sean Eron Anderson](http://graphics.stanford.edu/~seander/bithacks.html) **Stanford**
 	- C hacks
-- [Keith Thompson](http://keith-s-thompson.github.io/) ** **
-	- Fun stuff
-- [Unknown](http://www.catonmat.net/download/perl1line.txt) ** **
+- [Keith Thompson](http://keith-s-thompson.github.io/) 
+	- Fun stuff. He's not Ken Thompson!
+- [Unknown](http://www.catonmat.net/download/perl1line.txt) 
 	- Perl one liners
-- [Unknown](http://perl.plover.com/FAQs/Buffering.html) ** **
+- [Unknown](http://perl.plover.com/FAQs/Buffering.html) 
 	- Perl buffering
 - [Guy Kawasaki](http://guykawasaki.com/guy-kawasaki/)
 - [Unknown](https://blog.codinghorror.com/)
