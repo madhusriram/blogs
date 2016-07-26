@@ -41,8 +41,10 @@ Blogs
 - [Unknown](http://perl.plover.com/FAQs/Buffering.html) 
 	- Perl buffering
 - [Guy Kawasaki](http://guykawasaki.com/guy-kawasaki/)
-- [Unknown](https://blog.codinghorror.com/)
-	- Fun stuff too!
+- [Jeff Atwood & Joel Spolsky](https://blog.codinghorror.com/)
+	- StackExchange founders join together to write mostly toward exploring
+	  the human, practical aspects of programming, rather than featuring the
+	  deep dives into code that you might see on other tech blogs.
 - [Unknown](http://patorjk.com/blog/about/)
 	- Collection of articles ranging from programming to body building to
 	  mathematics.
