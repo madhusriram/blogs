@@ -56,6 +56,8 @@ Blogs
 	- Cool stuff here! Hangout here a lot.
 - [John Resig](http://ejohn.org/)
 	- The developer of jQuery
+- [Paul Graham](http://www.paulgraham.com/)
+	- Nice essays here!
 
 Other musings:
 --------------
