@@ -58,6 +58,10 @@ Blogs
 	- The developer of jQuery
 - [Paul Graham](http://www.paulgraham.com/)
 	- Nice essays here!
+- [Jessie Frazelle](https://blog.jessfraz.com)
+	- Ex Docker genius
+- [Mitchell Hashimoto](http://mitchellh.com)
+	- Creater of Vagrant
 
 Other musings:
 --------------
