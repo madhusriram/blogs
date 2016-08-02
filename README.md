@@ -62,6 +62,8 @@ Blogs
 	- Ex Docker genius
 - [Mitchell Hashimoto](http://mitchellh.com)
 	- Creater of Vagrant
+- [Richard Littauer](http://burntfen.com/)
+	- Postman devs
 
 Other musings:
 --------------
