@@ -67,6 +67,7 @@ Other musings:
 --------------
  - [Kernel map](http://www.makelinux.net/kernel_map/)
  - [Nifty Assignments](http://nifty.stanford.edu/) **Nick Parlante**
+ - [Aweseom lists](https://awesomelists.top/)
 
 Quotes to remember:
 -------------------
