@@ -114,6 +114,20 @@ need to dump them at one place. This is an effort toward that!
 > ## Quora
 > Don't complain. Either change your sitation, learn to cope, or change perspective.
 
+> ## C.N. Parkinson
+> Perfection is achieved only on the point of collapse.
+
+> ## Donald Knuth
+> Premature optimization is the root of all evil
+
+> ## L. Peter Deutsch
+> To iterate is human, to recurse devine
+
+> ## Winston S. Churchill
+> Don't interrupt me while I'm interrupting
+
+> ## Brian Kernighan
+> What you see is all you get
 
 > ## Quora
 > Find a passion. Pick a hobby, own it; photography, juggling - whatever. Get your 10K hours of perfect practice in early and change your life.
