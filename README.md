@@ -64,6 +64,10 @@ Blogs
 	- Creater of Vagrant
 - [Richard Littauer](http://burntfen.com/)
 	- Postman devs
+- [Zach Holman](https://zachholman.com/)
+	- this dude is awesome!
+- [Remi Prevost](http://www.exomel.com/en)
+	- Homebrew founder
 
 Other musings:
 --------------
