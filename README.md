@@ -114,7 +114,6 @@ need to dump them at one place. This is an effort toward that!
 > ## Quora
 > Ultimately privacy is a myth; God sees everything. The cloud records everything. NSA files everything. So, live transparently and don't waste useless energy hiding failures.
 
-
 > ## Quora
 > Don't complain. Either change your sitation, learn to cope, or change perspective.
 
@@ -135,3 +134,6 @@ need to dump them at one place. This is an effort toward that!
 
 > ## Quora
 > Find a passion. Pick a hobby, own it; photography, juggling - whatever. Get your 10K hours of perfect practice in early and change your life.
+
+> ## Admiral McRaven
+> [Not really a quote but an article](http://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world)
