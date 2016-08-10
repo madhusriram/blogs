@@ -68,6 +68,10 @@ Blogs
 	- this dude is awesome!
 - [Remi Prevost](http://www.exomel.com/en)
 	- Homebrew founder
+- [CodeKata] (http://codekata.com/)
+	- Because experience is the only teacher
+- [Armon Dadgar](http://armondadgar.com/)
+	- Co founder of HashiCorp
 
 Other musings:
 --------------
