@@ -62,6 +62,8 @@ Blogs
 	- Ex Docker genius
 - [Mitchell Hashimoto](http://mitchellh.com)
 	- Creater of Vagrant
+- [Pravendra Singh](http://pravj.github.io/blog/)
+	- this dude is awesome!
 
 Other musings:
 --------------
@@ -107,10 +109,26 @@ need to dump them at one place. This is an effort toward that!
 > ## Quora
 > Ultimately privacy is a myth; God sees everything. The cloud records everything. NSA files everything. So, live transparently and don't waste useless energy hiding failures.
 
-
 > ## Quora
 > Don't complain. Either change your sitation, learn to cope, or change perspective.
 
-
 > ## Quora
 > Find a passion. Pick a hobby, own it; photography, juggling - whatever. Get your 10K hours of perfect practice in early and change your life.
+
+> ## Mark Spitz, Gold medalist, Swimming
+> If you fail to prepare, you're prepared to fail
+
+> ## Dara Torres, Gold medalist, Swimming
+> Never put an age limit on your dreams
+
+> ## Oksana Baiul, Gold medalist, Figure Skating
+> One shouldn't be afraid to lose
+
+> ## Olga Korbut, Gold medalist, Figure skating
+> This ability to conquer oneself is no doubt the most precious of all things sports bestows
+
+> ## Allison Jones, 6 time Paralympian
+> If you're not having fun then what the hell are you doing?
+
+> ## Sanya Richards-Ross, Gold medalist, Track and field
+> Failure I can live with. Not trying is what I can't handle
