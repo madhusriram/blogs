@@ -62,13 +62,27 @@ Blogs
 	- Ex Docker genius
 - [Mitchell Hashimoto](http://mitchellh.com)
 	- Creater of Vagrant
+<<<<<<< HEAD
 - [Pravendra Singh](http://pravj.github.io/blog/)
 	- this dude is awesome!
+=======
+- [Richard Littauer](http://burntfen.com/)
+	- Postman devs
+- [Zach Holman](https://zachholman.com/)
+	- this dude is awesome!
+- [Remi Prevost](http://www.exomel.com/en)
+	- Homebrew founder
+- [CodeKata] (http://codekata.com/)
+	- Because experience is the only teacher
+- [Armon Dadgar](http://armondadgar.com/)
+	- Co founder of HashiCorp
+>>>>>>> c4d0153e9491796c1154bc3fdfd7bc9e4be7fc0c
 
 Other musings:
 --------------
  - [Kernel map](http://www.makelinux.net/kernel_map/)
  - [Nifty Assignments](http://nifty.stanford.edu/) **Nick Parlante**
+ - [Aweseom lists](https://awesomelists.top/)
 
 Quotes to remember:
 -------------------
@@ -132,3 +146,25 @@ need to dump them at one place. This is an effort toward that!
 
 > ## Sanya Richards-Ross, Gold medalist, Track and field
 > Failure I can live with. Not trying is what I can't handle
+
+> ## C.N. Parkinson
+> Perfection is achieved only on the point of collapse.
+
+> ## Donald Knuth
+> Premature optimization is the root of all evil
+
+> ## L. Peter Deutsch
+> To iterate is human, to recurse devine
+
+> ## Winston S. Churchill
+> Don't interrupt me while I'm interrupting
+
+> ## Brian Kernighan
+> What you see is all you get
+
+> ## Quora
+> Find a passion. Pick a hobby, own it; photography, juggling - whatever. Get your 10K hours of perfect practice in early and change your life.
+
+> ## Admiral McRaven
+> [Not really a quote but an article](http://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world)
+
