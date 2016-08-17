@@ -62,10 +62,8 @@ Blogs
 	- Ex Docker genius
 - [Mitchell Hashimoto](http://mitchellh.com)
 	- Creater of Vagrant
-<<<<<<< HEAD
 - [Pravendra Singh](http://pravj.github.io/blog/)
 	- this dude is awesome!
-=======
 - [Richard Littauer](http://burntfen.com/)
 	- Postman devs
 - [Zach Holman](https://zachholman.com/)
@@ -76,7 +74,8 @@ Blogs
 	- Because experience is the only teacher
 - [Armon Dadgar](http://armondadgar.com/)
 	- Co founder of HashiCorp
->>>>>>> c4d0153e9491796c1154bc3fdfd7bc9e4be7fc0c
+- [Norman Ramsey](http://www.cs.tufts.edu/~nr/)
+	- Professor at Tufts for Programming Languages
 
 Other musings:
 --------------
