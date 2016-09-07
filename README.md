@@ -72,6 +72,8 @@ Blogs
 	- Because experience is the only teacher
 - [Armon Dadgar](http://armondadgar.com/)
 	- Co founder of HashiCorp
+- [Jean Yang](http://people.csail.mit.edu/jeanyang/)
+	- Programming language researcher
 
 Other musings:
 --------------
