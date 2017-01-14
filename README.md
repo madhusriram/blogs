@@ -62,6 +62,8 @@ Blogs
 	- Ex Docker genius
 - [Mitchell Hashimoto](http://mitchellh.com)
 	- Creater of Vagrant
+- [Pravendra Singh](http://pravj.github.io/blog/)
+	- this dude is awesome!
 - [Richard Littauer](http://burntfen.com/)
 	- Postman devs
 - [Zach Holman](https://zachholman.com/)
@@ -76,6 +78,8 @@ Blogs
 	- Programming language researcher
 - [Diego Ongaro](https://ongardie.net/blog/)
 	- The creator of RAFT consensus algorithm
+- [Norman Ramsey](http://www.cs.tufts.edu/~nr/)
+	- Professor at Tufts for Programming Languages
 
 Other musings:
 --------------
@@ -125,6 +129,27 @@ need to dump them at one place. This is an effort toward that!
 > ## Quora
 > Don't complain. Either change your sitation, learn to cope, or change perspective.
 
+> ## Quora
+> Find a passion. Pick a hobby, own it; photography, juggling - whatever. Get your 10K hours of perfect practice in early and change your life.
+
+> ## Mark Spitz, Gold medalist, Swimming
+> If you fail to prepare, you're prepared to fail
+
+> ## Dara Torres, Gold medalist, Swimming
+> Never put an age limit on your dreams
+
+> ## Oksana Baiul, Gold medalist, Figure Skating
+> One shouldn't be afraid to lose
+
+> ## Olga Korbut, Gold medalist, Figure skating
+> This ability to conquer oneself is no doubt the most precious of all things sports bestows
+
+> ## Allison Jones, 6 time Paralympian
+> If you're not having fun then what the hell are you doing?
+
+> ## Sanya Richards-Ross, Gold medalist, Track and field
+> Failure I can live with. Not trying is what I can't handle
+
 > ## C.N. Parkinson
 > Perfection is achieved only on the point of collapse.
 
@@ -145,3 +170,71 @@ need to dump them at one place. This is an effort toward that!
 
 > ## Admiral McRaven
 > [Not really a quote but an article](http://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world)
+
+> ## Albert Einstein
+> Try not to become a man of success, but rather try to become a man of value.
+
+> ## Albert Einstein
+> In the middle of difficulty lies opportunity
+
+> ## Albert Einstein
+> A person who never made a mistake never tried anything new
+
+> ## Albert Einstein
+> Only a life lived for others is a life worthwhile
+
+> ## Albert Einstein
+> Life is like riding a bicycle. To keep your balance you must keep moving
+
+> ## Albert Einstein
+> Imagination is more important than knowledge
+
+> ## Albert Einstein
+> Weakness of attitude becomes weakness of character
+
+> ## Albert Einstein
+> Great spirits have always encountered violent opposition from mediocre minds
+
+> ## Albert Einstein
+> It's not that I am so smart, it's just that I stay with problems longer.
+
+> ## Albert Einstein
+> Insanity is doing the same thing, over and over again, but expecting different results
+
+> ## Albert Einstein
+> Logic will get you from A to B. Imagination will take you eveywhere
+
+> ## Albert Einstein
+> You have to learn the rules of the game. And then you have to play better than anyone else
+
+> ## Albert Einstein
+> We cannot solve our problems with the same thinking we used when we created them
+
+> ## Albert Einstein
+> The only source of knowledge is experience
+
+> ## Albert Einstein                                                                  
+> You never fail until you stop trying
+
+> ## Albert Einstein                                                                  
+> Once we accept our limits, we go beyond them
+
+> ## Albert Einstein                                                                  
+> A ship is always safe at the shore - but that is NOT what it is built for
+
+> ## Albert Einstein                                                                  
+> If you want to live a happy life, tie it to a goal, not to people of things
+
+> ## Albert Einstein                                                                  
+> Only those who attempt the absurd can achieve the impossible
+
+> ## Albert Einstein                                                                  
+> It is better to believe than to disbelieve; in so doing you bring everything to the realm of possibility
+
+> ## Albert Einstein                                                                  
+> Everybody is a genius. But if you judge a fish by it's ability to climb a tree it will live it's whole life believing that it is stupid
+
+
+
+
+
