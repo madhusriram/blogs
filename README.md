@@ -74,6 +74,8 @@ Blogs
 	- Co founder of HashiCorp
 - [Jean Yang](http://people.csail.mit.edu/jeanyang/)
 	- Programming language researcher
+- [Diego Ongaro](https://ongardie.net/blog/)
+	- The creator of RAFT consensus algorithm
 
 Other musings:
 --------------
